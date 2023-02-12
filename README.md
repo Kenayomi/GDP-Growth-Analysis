@@ -1,5 +1,5 @@
 # GDP-Growth-Analysis
-In this Analysis, I examined the increase or decrease in the total value of all goods and services produced within a given period of time.
+In this Analysis, I examined the increase or decrease in the total value of all goods and services produced within a given period of time with Power BI.
 
 This project is a comprehensive analysis of 89 countries' Gross Domestic Product (GDP) growth. The total GDP value for all countries is $62,264.3T. The purpose of this analysis is to understand the YoY (Year-over-Year) growth of the countries and to identify the top 10 countries with the highest Total GDP.
 
@@ -8,10 +8,11 @@ This project is a comprehensive analysis of 89 countries' Gross Domestic Product
 # Data Collection and Preparation
 The data for this analysis was collected from a reputable source, [Kaggle](https://www.kaggle.com/datasets/zackerym/gdp-annual-growth-for-each-country-1960-2020), and processed to ensure its accuracy and completeness. The data included the following variables:
 
-# Country Name
-- Year
-- GDP (in trillions of US dollars)
-- YoY Growth and Trend Analysis
+- Country Name - name of country
+- Country Code - code of country (3 letters)
+- Indicator Name - all fields filled with 'GDP (current US$)'
+- Indicator Code - all fields contains 'NY.GDP.MKTP.CD' value
+- Colums for each year
 A comparison metric was added to the data to calculate the YoY growth of each country's GDP. The YoY growth was calculated by dividing the current year's GDP by the previous year's GDP and subtracting 1. This calculation provided a clear picture of each country's GDP growth over time.
 
 A trend analysis was also conducted to understand the overall trend of the countries' YoY growth. This was done by creating a line chart that plotted the YoY growth over time for each country. The chart helped to identify the countries that were experiencing consistent growth, as well as those that were experiencing fluctuations in their GDP growth.
