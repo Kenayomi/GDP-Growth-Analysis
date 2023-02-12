@@ -6,7 +6,7 @@ This project is a comprehensive analysis of 89 countries' Gross Domestic Product
 ![image](https://user-images.githubusercontent.com/124893685/218312714-f1658084-cbc9-495e-916b-9f2dd0e6507a.png)
 
 # Data Collection and Preparation
-The data for this analysis was collected from a reputable source and processed to ensure its accuracy and completeness. The data included the following variables:
+The data for this analysis was collected from a reputable source, [Kaggle](https://www.kaggle.com/datasets/zackerym/gdp-annual-growth-for-each-country-1960-2020), and processed to ensure its accuracy and completeness. The data included the following variables:
 
 # Country Name
 - Year
